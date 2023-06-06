@@ -45,6 +45,7 @@ It is provided for educational/research purpose only. Please consider citing our
 - scipy
 - Pillow
 - torchsample
+- opencv
 
 #### Install
 - Clone this repo:
