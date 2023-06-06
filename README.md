@@ -44,7 +44,7 @@ It is provided for educational/research purpose only. Please consider citing our
 - matplotlib
 - scipy
 - Pillow
-- torchsample
+- [torchsample](https://github.com/ncullen93/torchsample/tree/master)
 - opencv
 
 #### Install
